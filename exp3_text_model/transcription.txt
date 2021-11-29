@@ -1,0 +1,540 @@
+232-021919a-0-0_27.40	neg	We need to have best listening ears on.
+232-021919a-0-0_30.23	pos	Make sure you're not too close to your friends please.
+232-021919a-0-0_57.37	neu	One day Danny went to the museum
+232-021919a-0-0_67.71	neu	He saw guns; he saw swords; and he saw...
+232-021919a-0-0_71.75	neu	What
+232-021919a-0-0_74.26	pos	Danny loves dinosaurs.
+232-021919a-0-0_85.88	pos	I'm sorry they're not real, said Danny
+232-021919a-0-0_102.76	pos	Good said Danny
+232-021919a-0-0_104.37	pos	xx can we do?
+232-021919a-0-0_114.26	pos	Let's go, said Danny.
+232-021919a-0-0_118.89	pos	He'd never seen a dinosaur stop for a red light
+232-021919a-0-0_124.38	pos	The dinosaur was so tall, Danny had to hold up the ropes for him
+232-021919a-0-0_137.67	pos	Go away dog, we a not a car.
+232-021919a-0-0_141.01	pos	I can make a noise like a car, said the dinosaur
+232-021919a-0-0_186.51	neu	We'll pause that. Hold on.
+232-021919a-0-0_214.90	pos	Very good
+232-021919a-0-0_216.58	neu	Where were we?
+232-021919a-0-0_370.73	neu	The dinosaur was out of breath.
+232-021919a-0-0_373.09	pos	Teach him tricks said the children.
+232-021919a-0-0_413.37	neu	The dinosaur covered his eyes. Can you guys cover your eyes?
+232-021919a-0-0_426.24	neu	The dinosaur looked and looked, but he couldn't find the children.
+232-021919a-0-0_436.42	pos	Children covered their eyes.
+232-021919a-0-0_468.44	pos	The children found him.
+232-021919a-0-0_574.56	neu	I have not read that story in a very long time.
+232-022619b-0-40_479.73	neg	no
+232-022819-0-10_0.05	neg	Okay, one.
+232-022819-0-10_16.73	neg	They're going away from our room.
+232-022819-0-10_19.13	neg	I'm going to give it to the admin.
+232-022819-0-10_21.00	neg	And I'm going to tell him, because you don't know how to treat the pillows.
+232-022819-0-10_24.77	neg	Do you understand, everyone?
+232-022819-0-10_33.95	neu	Special that we have this couch.
+232-022819-0-10_35.84	neg	X
+232-022819-0-10_67.79	pos	pain
+232-022819-0-10_102.70	neu	Okay, well we can refill. Okay? Go get water.
+232-022819-0-10_115.89	neg	vape
+232-022819-0-10_139.07	neg	Walk
+232-022819-0-10_152.70	pos	Okay, cool. Alright go get some water.
+232-022819-0-10_169.02	neg	Hands to your bodies, everyone.
+232-022819-0-10_204.18	neu	Did everyone go who wanted to go?
+232-022819-0-10_241.98	neg	Do you talk over miss X?
+232-022819-0-10_255.57	neu	Okay you're in the front row.
+232-022819-0-10_281.46	pos	Flippers! Flippers.
+232-022819-0-10_447.66	pos	Go dogs go; the light is green now
+232-022819-0-10_465.85	pos	It is time for sleep. The dogs go to sleep. they will sleep all night.
+232-022819-0-10_483.08	neu	And three more out of bed.
+232-022819-0-10_488.22	pos	Now it is the day. the sun is up. now it is the time for all dogs to get up.
+232-022819-0-10_493.45	pos	Get up. it is day. Time to get going. go dogs go.
+232-022819-0-10_504.88	pos	Where are those dogs going? What are they going to do?
+232-022819-0-10_511.28	pos	dog party
+232-022819-0-10_514.90	neu	X
+232-022819-0-10_521.62	pos	Look where they're going. they are all going to that big tree over there.
+232-022819-0-10_527.84	neu	yes
+232-022819-0-10_535.47	pos	Now the cars stop. Now all the cars-dogs get out. Now, where are those dogs going?
+232-022819-0-10_540.90	pos	To the tree! To the tree - that's a long ladder.
+232-022819-0-10_546.26	pos	Up they go to the top to the tree. Why? Up the tree. Up the tree.
+232-022819-0-10_551.22	pos	Will they work there? Will they play there? What is up there on top of the tree?
+232-022819-0-10_560.20	neu	Big dogs, little dogs, red dogs, blue dogs, yellow dogs, green dogs, black dogs, white dogs are all at the dog party.
+232-022819-0-10_586.99	pos	Hello again - and now do you like my hat?
+232-022819-0-10_589.90	pos	I like it. I like that party hat. I do. What a hat.
+232-022819-0-10_593.49	pos	Sit down, X. X you're in the front on your bottom.
+232-022819-0-10_596.97	pos	Goodbye.
+232-022819-0-20_6.14	pos	Guys, when they come on the walkie, we're going to stop, okay, so we can hear what they're saying.
+232-022819-0-20_22.37	pos	You want to share this? Okay. Hold on.
+232-022819-0-20_29.27	neg	That XX sit down. Wait till X is done.
+232-022819-0-20_34.87	neg	We will hold it up in a minute.
+232-022819-0-20_39.48	neg	No. Sit - no you're not getting pillows. Wait - who is this?
+232-022819-0-20_52.61	neg	Guys, look.
+232-022819-0-20_59.00	pos	Okay, you gonna walk aroound?
+232-022819-0-20_60.19	neg	What is it?
+232-022819-0-20_61.32	neu	Lemme hold this so your friends can see.
+232-022819-0-20_63.60	neg	Let me hold so your friends can see.
+232-022819-0-20_65.84	neg	This is who, X?
+232-022819-0-20_67.58	neg	I will let you hold it, but your friends want to see it. Who is this? You and who?
+232-022819-0-20_73.70	neg	But who is she - is she your cousin?
+232-022819-0-20_76.70	neg	she's your sister - okay.
+232-022819-0-20_82.92	neu	right now. This is them at the farm?
+232-022819-0-20_91.47	pos	I heard that. You went to the farm, too?
+232-022819-0-20_105.21	neg	Do not throw that, X.
+232-022819-0-20_124.24	pos	X can't see.
+232-022819-0-20_133.93	pos	That's so cool.
+232-022819-0-20_142.90	neu	Who's that?
+232-022819-0-20_155.06	neu	Sweetie, it's a heart.
+232-022819-0-20_172.71	neg	Excuse me, X - no, thank you.
+232-022819-0-20_175.29	neu	X, is that X, too?
+232-022819-0-20_189.30	neg	Raise your hand if you have any questions.
+232-022819-0-20_279.67	neg	X
+232-022819-0-20_290.33	neu	Where's this?
+232-022819-0-20_310.40	pos	Oh, why did you want to bring it?
+232-022819-0-20_314.39	pos	Oh, that's so nice of you. thank you.
+232-022819-0-20_328.51	pos	Okay. thank you.
+232-022819-0-20_368.08	neu	Show that one. One, two more.
+232-022819-0-20_370.66	neu	This one and then one more. And then we're going to pick up - then we're going to be done, okay?
+232-022819-0-20_389.97	pos	Who's this guys?
+232-022819-0-20_421.90	pos	Wow
+232-022819-0-20_451.33	neu	Pick two more and then we're going to read. Okay. Pick two more people.
+232-022819-0-20_464.04	neu	What do you say? Do you say thank you?
+232-022819-0-20_467.40	neu	Bay-too.
+232-022819-0-20_484.65	neu	Guys when you say I like, it's a comment.
+232-022819-0-20_487.39	neu	Question is when you say, what is some.
+232-022819-0-20_495.43	neu	They're commenting.
+232-022819-0-20_509.04	pos	We are having British email menu.
+232-022819-0-20_511.90	pos	Uh, did you, um. Who asked, who told you to bring the Barbie to school?
+232-022819-0-20_527.24	pos	Why did you want to bring it in here.
+232-022819-0-20_545.52	pos	I know
+232-022819-0-20_550.64	neg	X, come back here.
+232-022819-0-20_551.74	pos	Downstairs with the babies? The babies. Oh that's good
+232-022819-0-20_556.77	neu	Go get them and let's read a book. Let's read Arthur Babysitter.
+232-022819-0-20_567.70	pos	Who brought this?
+232-022819-0-20_575.47	pos	Oh, that's awesome.
+232-041619-2-10_208.65	neg	Why would you throw that under there?
+232-041619-2-10_218.56	neg	No. Why would you throw that under there?
+232-041619-2-10_222.10	neg	X - why would you throw those under there?
+232-041619-2-10_319.19	neg	No, X? I moved him away from you.
+232-041619-2-10_342.11	pos	Alright, is this all a part of that puzzle drawing?
+233-012819s-0-0_32.25	pos	?
+233-012819s-0-0_528.12	pos	I'm much closer to work
+233-012819s-0-0_595.67	neg	You need to stop.
+233-040119c2-1-10_0.51	neu	Okay hold on becuse you had your turn, now she needs to finish.
+233-040119c2-1-10_3.35	pos	Okay, so you got a little blue bottle. baking soda.
+233-040119c2-1-10_8.47	neu	that's it.
+233-040119c2-1-10_96.49	pos	Alright, tell me two more lines. A little more? So, I will call someone else. Okay?
+233-040119c2-1-10_122.66	pos	Calm down, relax, okay?
+233-040119c2-1-10_130.24	pos	Did you tell me that?
+233-040119c2-1-10_142.93	neg	You already had a turn. I need to call someone else. if you want to say something else at the end, it's fine, but you have to wait.
+233-040119c2-1-10_156.25	neu	So, Amit's leaving
+233-040119c2-1-10_198.98	neg	She's never here
+233-040119c2-1-10_201.88	neu	Either way, I'm like okay, wouldn't be surprising.
+233-040119c2-1-10_208.09	pos	Ya - with relation and me here she wasn't in DUA
+233-040119c2-1-10_238.58	pos	Ya, okay. X, would you like to say something else?
+233-040119c2-1-10_242.54	pos	Thank you Presley
+233-040119c2-1-10_266.45	pos	So you ate a hamburger?
+233-040119c2-1-10_271.78	pos	mmm!
+233-040119c2-1-10_281.43	neu	So you went my house, doing what?
+233-040119c2-1-10_300.28	pos	something else, or are we done?
+233-040119c2-1-10_306.39	neu	what is that?
+233-040119c2-1-10_308.71	pos	Are you cutting your nail - for your finger?
+233-040119c2-1-10_313.10	neg	So what's the sound that I hear?
+233-040119c2-1-10_317.85	neg	What is this?
+233-040119c2-1-10_324.15	pos	You cannot do that, okay?
+233-040119c2-1-10_330.90	pos	And also you can lose something, part of your teeth - you don't want that right?
+233-040119c2-1-10_336.00	neg	Don't do that
+233-040119c2-1-10_348.79	neg	What are you doing waking X
+233-040119c2-1-10_350.64	neg	You have to tell me two things that your mommy told me in the morning
+233-040119c2-1-10_354.44	neg	tell me about it
+233-040119c2-1-10_360.85	neg	you have two birthday parties. tell me about it
+233-040119c2-1-10_366.86	neg	listen to me
+233-040119c2-1-10_368.36	neg	if i see the phone falling down again, you know where you are going
+233-040119c2-1-10_374.30	neu	thank you
+233-040119c2-1-10_396.44	pos	Marshmallow X?
+233-040119c2-1-10_412.56	neu	In the other cousin's house. all the same house.
+233-040119c2-1-10_426.85	pos	X's house, right?
+233-040119c2-1-10_495.30	neu	You tell me that. Thank you, X.
+233-040819s-2-20_3.38	pos	Why?
+233-040819s-2-20_6.22	pos	People can show that you are angry and different, wait.
+233-040819s-2-20_10.74	pos	okay
+233-040819s-2-20_11.83	pos	I'm going to show you a picture
+233-040819s-2-20_26.55	neu	Look at his eyes and eyebrow
+233-040819s-2-20_31.88	pos	What happened with him?
+233-040819s-2-20_35.62	pos	Do you see how his eyes are open wide?
+233-040819s-2-20_38.77	pos	And his eyebrows are scrunched up.
+233-040819s-2-20_45.34	pos	Does he look like he's whispering or does he look like he's yelling?
+233-040819s-2-20_52.41	pos	It's hard to whisper when you're angry, right?
+233-040819s-2-20_63.97	pos	Now we can see a bit more about why the child might be angry
+233-040819s-2-20_109.54	pos	When I get angry, sometimes I feel very hot.
+233-040819s-2-20_113.31	neu	In night, my heart beats faster
+233-040819s-2-20_118.27	pos	How do you feel when you're angry, X?
+233-040819s-2-20_126.25	neu	What about you X?
+233-040819s-2-20_129.06	neu	How do you feel when you're angry?
+233-040819s-2-20_132.23	pos	uh-huh
+233-040819s-2-20_134.22	neu	what happened with your face, your eyes
+233-040819s-2-20_146.11	neu	sometimes your face gets hot
+233-040819s-2-20_150.00	neu	or maybe sometimes, people get cry
+233-040819s-2-20_174.46	pos	they cry
+233-040819s-2-20_191.15	pos	okay?
+233-040819s-2-20_195.76	neu	X - what do you do when you get angry
+233-040819s-2-20_201.08	pos	your face to red
+233-040819s-2-20_213.12	pos	your face got what?
+233-040819s-2-20_215.15	pos	Red? Uh-huh.
+233-040819s-2-20_229.51	pos	what will happen if you hit someone?
+233-040819s-2-20_246.81	pos	Sometimes people told your mom, right?
+233-040819s-2-20_253.82	pos	Well, you know what? We are talking about feelings
+233-040819s-2-20_259.70	pos	Okay, so are you upset - you are angry when he did that? Okay.
+233-040819s-2-20_263.96	pos	Okay, what are you going to tell him?
+233-040819s-2-20_280.63	neu	He ask you a question, X, what can he do to make you feel better?
+233-040819s-2-20_286.08	neu	okay
+233-040819s-2-20_287.66	neu	So there are many things that we can do when we get angry.
+233-040819s-2-20_291.26	pos	When we feel angry we need to stop and think about what to do so we do not get in trouble and we do not hurt someone.
+233-040819s-2-20_304.19	pos	Now?
+233-040819s-2-20_307.31	neu	Also we are going to ... if somebody hurt you what we need to do is tell him - the person - to stop
+233-040819s-2-20_315.72	pos	And tell him - think about what you are doing
+233-040819s-2-20_319.40	neu	Because we don't want anybody hurt
+233-040819s-2-20_321.64	pos	Did you want was somebody hear you?
+233-040819s-2-20_325.02	pos	I don't like it either
+233-040819s-2-20_327.18	pos	alright
+233-040819s-2-20_331.59	pos	X, I need you to go to the other carpet because you are talking with X.
+233-040819s-2-20_335.39	neg	Since I miss start talking with children, and I do not like either
+233-040819s-2-20_338.83	neu	You are talking too so have a seat in the chair over there. Put that chair over there and sit down. Go.
+233-040819s-2-20_353.39	neu	So, now, we are going to take three big breath.
+233-040819s-2-20_358.94	neu	Really big, from your nose down to your toes.
+233-040819s-2-20_372.85	neu	We are going to count one to five
+233-040819s-2-20_375.37	pos	Very slowly in your mind
+233-040819s-2-20_389.70	neu	We say ourselves
+233-040819s-2-20_440.48	neu	Tell the teacher
+233-040819s-2-20_442.75	pos	X you mention the name to her
+233-040819s-2-20_446.63	neu	If someone hurt you you need to tell the teacher or the mom. Whoever is close to you.
+233-040819s-2-20_451.72	neu	But you need to calm down. You cannot hit the person back.
+233-040819s-2-20_458.82	neu	So, I don't want to hear complete, like he hit me. he punch me.
+233-040819s-2-20_467.46	neu	If you are angry, what are going to do first?
+233-040819s-2-20_471.34	neu	Take three deep breath.
+233-040819s-2-20_479.53	neu	Count one to five in your mind.
+233-040819s-2-20_487.00	neu	And then, we are going to say calm down to ourself
+233-040819s-2-20_497.06	pos	Alright? Okay.
+233-040819s-2-20_564.75	neu	Did he do it today?
+233-040819s-2-20_568.04	pos	But did he do it today?
+233-101118s-0-10_49.96	pos	...you've got stay in the classroom
+233-101118s-0-10_63.58	neg	I don't know what is going on with this. Um
+233-101118s-0-10_69.66	neu	And so she called me and said when she's in ray shield, she'll bring him down.
+233-101118s-0-10_79.73	neu	you did?
+233-101118s-0-10_252.76	pos	Okay, X hurry up. Stuff your face, you only have 5 - oh you are stuffing your face.
+233-101118s-0-10_275.61	neu	Wait, you know I'm gonna be lookin
+233-101118s-0-10_286.25	pos	can we show miss shauna?
+233-101118s-0-10_288.01	pos	just so she knows
+233-101118s-0-10_356.86	pos	wow - who's handprint is that?
+233-101118s-0-10_373.88	pos	that's wonderful!
+233-101118s-0-10_382.62	pos	Okay, as long you keep it in your cubby, it'll be fine mi amore
+233-101118s-0-10_407.70	pos	Oh my!
+233-101118s-0-30_136.15	pos	So that you can take them back to your room when it's time.
+233-101118s-0-30_450.44	neu	okay, three people
+233-101118s-0-40_464.26	neg	Don't tell me no.
+235-022619s-1-0_76.55	pos	Oh, X brought that?
+235-022619s-1-0_184.98	pos	Come on guys, sing!
+235-022619s-1-0_338.95	neg	So, if you wanted ABCs, how would you feel if I talked the whole time you were singing the ABC song about a different song I wanted?
+235-022619s-1-0_354.42	neg	I'm gonna let somebody who sang...no nathan you did it too.
+235-041519s-0-20_77.77	neu	So what do we do? Let's tell X what happens. Let's show him what happens when we ring the bell.
+235-041519s-0-20_88.40	neg	X. X, you're not helping X know what we're supposed to do when the bell rings.
+235-041519s-0-20_98.86	neg	Freeze. You stop what you're doing and you freeze.
+235-041519s-0-20_102.83	neu	See the other children - they did the right thing.
+235-041519s-0-20_106.24	pos	And then we say, it's time to clean up. and we have a timer
+235-041519s-0-20_184.45	neg	Remember there's one, there's two teachers. the children are not teachers. it's me and miss X
+235-041519s-0-20_245.67	neg	Walk away please
+235-041519s-0-20_530.27	neu	Nope - well, it's similar to the new one we got, but, um, X you weren't here for X's long, lengthy email
+235-041519s-0-20_542.38	neu	What was it about our narrative?
+235-041519s-0-20_543.99	neu	No, it was about the visual content and how to.
+235-041519s-0-20_553.80	neg	Not much, not really anything
+235-041519s-0-20_556.18	neu	Did she say she hasn't looked at it yet?
+235-041519s-0-20_567.77	neu	uh-hm. why?
+235-041519s-0-20_568.90	neu	I don't know, it was like too too sudden. I didn't realize, totally feel
+235-041519s-0-20_575.33	neu	What? Overwhelmed?
+235-101818s-1-0_37.34	neu	Uh, cars away, guys. cars away
+235-101818s-1-0_188.95	pos	hi X
+235-101818s-1-0_322.01	neu	Whose name starts with a D?
+235-101818s-1-0_334.65	pos	I'm gonna miss mom-you're today
+235-101818s-1-0_338.06	neg	I need you to please sit properly in that chair
+235-101818s-1-0_344.30	neu	You're going to play nicely with Christopher?
+235-101818s-1-0_354.73	neg	Sit up
+235-101818s-1-0_436.42	pos	We're going to try to make a campfire tomorrow, okay?
+235-101818s-1-0_449.18	neg	Whose, um, whose coat is this?
+235-101818s-1-0_453.31	neg	No, whose coat is this, guys?
+235-101818s-1-0_455.95	neu	Annie, is this yours?
+235-101818s-1-0_457.94	neg	Whose coat is this?
+235-101818s-1-0_560.99	neg	You need to stop.
+235-102518s-2-20_75.55	pos	What's gonna pop of yours?
+235-102518s-2-20_179.58	neu	Can you wait? Cuz I have to figure out how I'm gonna do it again.
+235-102518s-2-20_190.38	neu	That food coloring will stay on your hands unless we get it washed off soon, okay?
+235-102518s-2-20_232.95	neu	okay, freeze
+235-102518s-2-20_236.68	pos	There's no vinegar?
+235-102518s-2-20_250.82	neu	Guys, where's miss X?
+235-102518s-2-20_260.82	neg	nope, nope
+235-102518s-2-20_272.17	neg	nope, nope - leave it on the tray
+235-102518s-2-20_349.30	neu	ok, I need this
+235-102518s-2-20_395.16	neg	uh, no - sit over there
+235-102518s-2-20_434.56	neg	stop it
+235-102518s-2-20_537.13	neg	what, what part of the project got messed
+235-102518s-2-20_542.80	pos	aw, it's okay.
+235-102518s-2-20_558.16	neg	So, if you would like...nnnno, you need to wait, you need to pull up to the table and wait
+235-102518s-2-40_104.00	neu	And then everyone back on the carpet, and I'll send you guys to a different area.
+235-102518s-2-40_332.97	neg	I'm gonna be talking now. I'm gonna be talking now.
+235-102518s-2-40_338.87	neg	I'm gonna be talking now.
+235-102518s-2-40_346.25	neg	I'm waiting for you to listen
+235-102518s-2-40_369.30	neu	Who got a chance to do sand - raise your hand
+235-102518s-2-40_373.18	neg	I said who got a chance to raise your hand. If you did sand, put your hand up like this.
+235-102518s-2-40_446.53	neg	stop
+235-102518s-2-40_452.51	neg	If you can't control yourself and can't be quiet, I'm going to find a place for you to sit.
+235-102518s-2-40_464.16	neg	stop
+235-102518s-2-40_465.12	neg	nope, I I want you to sit and be quiet
+235-102518s-2-40_498.39	neu	let's put a finger on our lips
+235-102518s-2-40_500.31	neu	to remind us that we're not making noise
+235-102518s-2-40_503.37	pos	X, we're done painting now.
+235-102518s-2-40_506.28	pos	because it is time for a story
+235-102518s-2-40_509.10	neu	So, please join us, X
+235-102518s-2-40_514.26	pos	Digging for Dinos
+235-102518s-2-40_524.24	pos	Chapter 1, ooh, it's our first chapter book of the school year
+235-102518s-2-40_533.57	pos	X, please sit on your bottom
+235-102518s-2-40_542.72	pos	Haggis woke up early and got ready for the day
+235-102518s-2-40_546.91	pos	he clipped his toenails
+235-102518s-2-40_549.53	pos	he snipped his moustache
+235-102518s-2-40_557.45	pos	what kind of animal is haggis?
+235-102518s-2-40_563.47	pos	Ahh, I feel like a new dog. there's nothing like a good grooming.
+235-102518s-2-40_568.53	pos	You should try it some time, Tank.
+235-102518s-2-40_571.50	neu	Tank did not have time for grooming. She was busy reading.
+235-102518s-2-40_579.00	pos	How can we tell?
+235-102518s-2-40_584.16	neu	What is she doing? What is she doing with the book?
+235-102518s-2-40_588.55	pos	reading
+235-102518s-2-40_589.93	pos	wow - my book says that dinosaurs used to live right here
+235-102518s-2-40_596.31	pos	imagine real dinos in our back yard
+236-021219s-2-0_1.45	pos	alright, thank you, X
+236-021219s-2-0_3.11	neu	Who did not go?
+236-021219s-2-0_6.72	pos	Medium bray, but yours isn't written in, right?
+236-021219s-2-0_13.82	neu	Alright, I have a book. Let's see
+236-021219s-2-0_19.14	pos	A fun book called, how to draw a dragon
+236-021219s-2-0_51.63	pos	you're what?
+236-021219s-2-0_54.47	neu	Did you bring it in here...back from the gym? Just wait until, we're almost done.
+236-021219s-2-0_61.14	neu	Well, yeah, we're going to have to go up, we'll have to get them after nap.
+236-021219s-2-0_64.95	neu	Drawing dragons isn't hard. draw a dragon in your yard
+236-021219s-2-0_69.47	neu	Dragons may be large in size. You'll need lots of art supplies.
+236-021219s-2-0_74.64	neu	dragons when they wake are grumpy
+236-021219s-2-0_78.25	pos	Oh, that could be...sombody...that wakes up grumpy. Do you ever wake up grumpy?
+236-021219s-2-0_89.45	pos	and then you turn into a grumpy dragon
+236-021219s-2-0_99.93	neu	You ca-if you're going to, you need to sit down
+236-021219s-2-0_102.12	neu	Careful when you draw each claw, dragons also love to draw
+236-021219s-2-0_108.84	neu	draw your dragons pointed spines, using lots of jagged lines
+236-021219s-2-0_119.20	neu	while your dragon's laying eggs
+236-021219s-2-0_125.95	neu	dragons have large knobby knees, and it's it's rainy when dragons sneeze
+236-021219s-2-0_132.35	neu	while you both ride on your bike, you can draw your dragon's spike
+236-021219s-2-0_137.82	pos	draw your dragon's wings in flight, but don't look down and hold on tight
+236-021219s-2-0_143.67	neu	draw your dragon's bearded chin. That's the one you...That bearded...What's that called, the bearded dragon?
+236-021219s-2-0_150.80	neu	Uh, lizard. Isn't there a lizard, called the bearded dragon?
+236-021219s-2-0_154.36	neu	While he plays the violin
+236-021219s-2-0_156.73	neu	Draw your dragon's bulging eyes and she watching dragonflies
+236-021219s-2-0_162.20	neu	Dragon fire has red and yellow and it's good to toast marshmallows
+236-021219s-2-0_166.24	pos	hahaha - the fire can be used to make roasted marshmallows
+236-021219s-2-0_170.31	pos	time for dragons now to fly. then waive goodbye. all those dragons had to go
+236-021219s-2-0_178.81	pos	But you're drawing
+236-021219s-2-0_185.22	neu	Oh, look they put their dragons their school's artshow of dragons
+236-021219s-2-0_193.36	neu	okay, so, I'm going to tell you what we're going to do next
+236-021219s-2-0_197.33	neu	so, X, X, X, X, and X I think are the five that are going to go to art with X to do the next step
+236-021219s-2-0_216.34	neu	those are the people that are going this week, okay
+236-021219s-2-0_220.03	neu	while they're gone, Miss X gonna, we're going to bring clay in here, and some other people can walk work on making fossils
+236-021219s-2-0_226.88	pos	remember what fossils are?
+236-021219s-2-0_229.81	neu	you're gonna go to art
+236-021219s-2-0_234.34	neu	So the're like prints of people of like bodies of animals or leaves or something in the ground
+236-021219s-2-0_262.59	neu	okay
+236-021219s-2-0_269.51	pos	well, don't worry about it X, miss X is gonna come at, 'cause she said she may not be ready right away
+236-021219s-2-0_320.55	neu	so, we gotta find stuff. What can we make dinosaurs' footprints with while we're in here?
+236-021219s-2-0_331.98	neu	right, we can use the dinosaurs
+236-021219s-2-0_364.71	neu	alright, so, if you want to do this
+236-021219s-2-0_377.66	neg	no, we're not we're not doing clay like that X, we're doing clay to do something for a project
+236-021219s-2-0_391.57	neg	Will you please sit back down? We're not doing that.
+236-021219s-2-0_394.77	neg	you need to listen so I can tell you what you're gonna do
+236-021219s-2-0_399.22	neg	X, please sit down, so I can tell you what's open, okay?
+236-021219s-2-0_418.96	neu	Alright, who wants to make, make fossils?
+236-021219s-2-0_424.10	neu	Alright, if you want to make fossils, go to this little table
+236-021219s-2-0_428.00	neu	X, do you want to take your game out?
+236-021219s-2-0_533.18	neu	I'm gonna have to go get more clay in a minute
+236-040919sa-0-10_161.13	neu	Is everybody signed in. X, did you sign in?
+236-040919sa-0-10_174.43	pos	I know - what a great job you guys are doing
+236-040919sa-0-10_197.45	pos	Alright, do you want to make a picture for X, for her birthday?
+236-040919sa-0-10_319.36	pos	Wow - so pretty. Yes, yes, I'm gonna put it in her back
+236-040919sa-0-10_343.53	pos	Yes, thank you, X!
+236-040919sa-0-10_350.57	pos	Alright, we'll read your cards at, we're gonna read your cards at morning meeting okay?
+236-040919sa-0-10_549.85	pos	You want to do that now?
+236-040919sa-0-10_553.92	neg	It's not your birthday. You do it when it's your birthday.
+236-040919sa-0-10_556.73	neg	It's not your birthday yet, X.
+236-040919sa-0-10_585.34	pos	You can
+236-040919sa-0-20_38.00	neg	One. One airplane
+236-040919sa-0-20_128.21	neg	No, you have two. You're not taking three paint brushes out for that.
+236-040919sa-0-20_304.18	neu	You're going to be 25
+236-040919sa-0-20_316.98	pos	I know
+236-040919sa-0-20_470.57	pos	She did mine! Because I never did mine. You'll get to do yours in, let's see, three, two weeks. Two weeks you can do yours.
+236-040919sa-0-20_497.15	pos	So, on your birthday, X, we'll take yours down and you can do yours, but X is doing her own, okay?
+236-040919sa-0-20_532.70	neu	M for, let's see who are the two Ms, X and X.
+236-041619s-0-30_0.36	pos	Oh, you have those?
+236-041619s-0-30_7.41	neu	okay
+236-041619s-0-30_30.91	neu	Alright, yeah, so maybe miss X said, let's see we have the stuff. maybe we can set up the shower and some stuff in the boat or the hotel. Yeah, you can s...where do you want to set them up?
+236-041619s-0-30_43.91	neu	There's a shower in the hotel, but, yeah can play with them in the hotel. You can play with, um, the boat
+236-041619s-0-30_60.95	pos	somebody can take a shower now look
+236-041619s-0-30_64.31	pos	look there's a shower
+236-041619s-0-30_74.95	neu	here's the bed
+236-041619s-0-30_103.87	pos	oh, 'cause it's spring break
+236-041619s-0-30_160.91	pos	you want to ask miss X something?
+236-041619s-0-30_298.40	pos	wow
+236-041619s-0-30_325.48	pos	what's wrong with them
+236-041619s-0-30_330.97	neu	they ate something bad?
+236-041619s-0-30_344.64	neu	she is
+242-022219s-3-30_3.86	neu	here. I'll come right now.
+242-022219s-3-30_6.74	neg	gwakana two
+242-022219s-3-30_25.00	neu	can you do your self?
+242-022219s-3-30_30.56	neg	stein
+242-022219s-3-30_34.44	neg	this is the last time that I'm talking to you
+242-022219s-3-30_37.79	neg	no, it's not um-hm
+242-022219s-3-30_44.19	neg	I'm serious with you, X
+242-022219s-3-30_47.55	neg	You haven't been following directions at all
+242-022219s-3-30_50.44	neg	the entire day
+242-022219s-3-30_57.65	pos	do you need a napkin
+242-022219s-3-30_61.88	pos	brush. do you need a napkin?
+242-022219s-3-30_64.42	pos	yes
+242-022219s-3-30_69.35	neg	shhh
+242-022219s-3-30_80.40	neg	X, look at your food
+242-022219s-3-30_92.29	neg	X what you're doing do
+242-022219s-3-30_100.75	neu	eat your food quiet like this
+242-022219s-3-30_102.64	neg	you don't need to make these sounds
+242-022219s-3-30_106.63	neg	I know you don't do this at home
+242-022219s-3-30_108.88	neg	so please don't do it here
+242-022219s-3-30_110.93	neg	you're friends are trying to eat
+242-022219s-3-30_114.06	neu	alright
+242-022219s-3-30_116.05	neg	I know you know how to act
+242-022219s-3-30_119.83	neu	yes
+242-022219s-3-30_132.91	neg	raise your hand quietly if you need your bananas opened
+242-022219s-3-30_139.73	neg	I said raise your hand quietly
+242-022219s-3-30_141.48	neg	quiet
+242-022219s-3-30_179.29	neu	I know
+242-022219s-3-30_180.41	neu	one second
+242-022219s-3-30_189.06	pos	ha-ha, yeah
+242-022219s-3-30_192.32	neu	Raise your hand quietly, and when I see it, I will come to you
+242-022219s-3-30_216.96	neu	yes, X
+242-022219s-3-30_226.01	neu	eat your tater tots
+242-022219s-3-30_229.81	neu	just finish it
+242-022219s-3-30_236.71	neu	but yes you can have it
+242-022219s-3-30_240.11	pos	X, are we playing?
+242-022219s-3-30_261.60	neg	that does not mean get loud, though
+242-022219s-3-30_317.48	neu	so, when you use the bathroom
+242-022219s-3-30_369.04	neg	You shouldn't be touching touching her, because she's allergic to bananas
+242-022219s-3-30_371.96	neg	Please, keep you hands to yourself
+242-022219s-3-30_376.81	neg	You're eating, don't touch her please
+242-022219s-3-40_13.23	neg	get ready to go to school
+242-022219s-3-40_25.06	neg	like I told you before, don't look at her, look at your food
+242-022219s-3-40_35.24	neu	masrevs
+242-022219s-3-40_36.99	neu	that's a mini
+242-022219s-3-40_56.28	neg	X
+242-022219s-3-40_93.96	neg	ba-kenaw to get up
+242-022219s-3-40_101.39	neg	get up
+242-022219s-3-40_121.11	pos	are you finished?
+242-022219s-3-40_132.43	neg	you already know what's goign to happen...please
+242-022219s-3-40_139.85	neu	go to the bathroom please
+242-022219s-3-40_220.21	neg	Hey, listen up. The moment I say, let's clean up and throw it away, I don't want any of you telling me I want to continue eating.
+242-022219s-3-40_228.86	neg	If you're eating right now eat, finish.
+242-022219s-3-40_233.14	neg	Cause the moment I tell you to get up, throw away your trash, you're doing that. You're not going to be like that.
+242-022219s-3-40_237.79	neg	X, let's throw it away. Let's throw it away.
+242-022219s-3-40_243.16	neg	It doesn't matter. Red table is already done. Let's go. Come on.
+242-022219s-3-40_248.04	neg	You've been here waiting for a while now. You've been eating slowly turning around, doing anything
+242-022219s-3-40_252.47	neg	X, you too. Let's go.
+242-022219s-3-40_255.40	neg	You've been eating that banana forever now
+242-022219s-3-40_282.94	neg	X
+242-022219s-3-40_421.58	neg	Go, go, get up
+242-022219s-3-40_437.69	neg	do it, do it, do it
+242-022219s-3-40_452.79	neg	Get up, go, no
+242-022219s-3-40_454.83	neg	Go to the front. Go to the door
+242-101018s-3-20_131.78	neg	nope
+242-101018s-3-20_154.16	pos	yes
+242-101018s-3-20_159.39	neu	oh my, gosh
+242-101018s-3-20_192.04	neu	nopes
+242-101018s-3-20_202.62	pos	ehhhh
+242-101018s-3-20_209.94	pos	oh my gosh
+242-101018s-3-20_240.92	pos	want a kitty cat?
+242-101018s-3-20_272.87	neg	Um, don't touch her
+242-101018s-3-20_276.29	neu	Come here. Come here
+242-101018s-3-20_287.08	neu	So, why do you have this?
+242-101018s-3-20_290.83	neg	we are not playing with puppets right now
+242-101018s-3-20_308.78	neu	where's your book?
+242-101018s-3-20_336.74	pos	yeah!
+242-101018s-3-20_339.74	pos	Be careful when you walk. Don't drop it buddy.
+242-101018s-3-20_376.98	neg	novava
+242-101018s-3-20_412.58	pos	X
+242-101018s-3-20_442.44	neu	you may wash your hands
+242-101018s-3-20_451.84	neu	fix it. you gotta fix it
+242-101018s-3-20_457.02	neg	clean up your floor puzzles please
+242-101018s-3-20_470.45	pos	okay, come sit down
+242-101018s-3-20_483.23	neg	X, are you cleaning up?
+243-020819a-1-10_53.97	neg	??, I think I have..
+243-020819a-1-10_159.73	neu	yes
+243-020819a-1-10_160.33	neu	okay
+243-020819a-1-10_234.08	pos	thank you
+243-020819a-1-10_257.49	neu	okay
+243-020819a-1-10_265.64	pos	let's tell X, he can have them?
+243-020819a-1-10_307.62	neu	You want to do it, or no?
+243-020819a-1-10_312.94	neg	who can help us?
+243-020819a-1-10_359.16	neu	three-up, three-up
+243-020819a-1-10_373.46	neu	sing first this sound
+243-020819a-1-10_389.59	neu	maybe bebe be loud and blow them up
+243-020819a-1-10_417.36	neg	nononono
+243-020819a-1-10_455.75	neg	you know thats
+243-020819a-1-10_468.69	neg	Do you face happy now. Look at the teacher faces.
+243-020819a-1-10_485.55	neg	Don't follow
+243-020819a-1-10_487.53	neg	?? and don't follow X
+243-020819a-1-10_489.76	neg	If they're not here for circle time, if they're doing something else, it's okay. They need more time.
+243-020819a-1-10_494.87	neg	They don't know the rules yet. They are new.
+243-020819a-1-10_498.04	neg	We said that we need your help.
+243-020819a-1-10_514.31	neu	So, please
+243-020819a-1-10_516.52	neg	let's make the circle time short. I don't want to make you to sit down for long time.
+243-020819a-1-10_528.50	neg	And if we call your name, you need to answer.
+243-020819a-1-10_537.93	neg	Let's all do it starting for now
+243-020819a-1-10_539.92	neu	okay
+243-020819a-1-10_582.61	pos	you're a good boy
+243-020819a-1-10_585.57	pos	ah-ha
+243-022219s-0-0_77.63	pos	we don't need a chair
+243-022219s-0-0_79.34	pos	X, tabletop toys, and I need everyone here please
+243-022219s-0-0_119.46	neu	X, I need to talk to you
+243-022219s-0-0_123.10	neg	Why aren't you coming here, that's why I'm telling you. Go play on the tabletop.
+243-022219s-0-0_129.46	neu	Excuse me - was that legos?
+243-022219s-0-0_139.88	pos	You know how to use this one, right?
+243-022219s-0-0_148.99	pos	This is just like your glue, okay?
+243-022219s-0-0_220.13	pos	Think and then do it, okay?
+243-022219s-0-0_221.96	pos	This is just used like glue
+243-022219s-0-0_231.96	pos	okay, make a circle
+243-022219s-0-0_309.28	pos	that's a really beautiful flower
+243-022219s-0-0_314.41	pos	Uh, I need , uh... I need a X's ball here, and then what is this? what are you telling me?
+243-022219s-0-0_356.49	pos	This is your window you see, right? And then just put all around these things, okay?
+243-022219s-0-0_375.52	pos	Good, yeah. An impressive...
+243-022219s-0-0_385.23	pos	Oh, yeah, yeah, he ...
+243-022219s-0-0_391.61	pos	no thank you
+243-022219s-0-0_421.91	neu	Excuse me, X, X, and then X, go to that carpet please
+243-022219s-0-0_431.01	neg	Where is it? Where is it? We had more
+243-022219s-0-0_436.82	neu	Yeah, we had more. Where is it?
+243-022219s-0-0_446.60	pos	Ooh, right here. You were right.
+243-022219s-0-0_466.71	neu	Excuse me. Look at me. I need to tell you something. If you need it, just take it from here.
+243-022219s-0-0_480.80	pos	Hi, good morning, X
+243-022219s-0-0_525.38	neu	I need um, X?
+243-022219s-0-0_536.54	pos	Good morning! Hi, X.
+243-022219s-0-0_546.58	pos	X, do you want to eat something more?
+243-022219s-0-0_573.60	pos	Excuse me, first washing hand, and then eat
+243-022219s-0-0_582.70	pos	is ready?
+243-022219s-0-0_585.20	pos	I like it! Okay.
+246-020619-1-10_29.88	pos	yes, you're right. it almost like I'm eating my feet
+246-020619-1-10_33.04	pos	my feet eat, eat. I'm not telling you to eat your feet.
+246-020619-1-10_117.23	pos	alright, ready?
+246-020619-1-10_124.04	pos	the first thing is showing you a couple buildings
+246-020619-1-10_141.73	pos	alright so I'm randomly going to choose three of them, and then out of those three you guys are going to choose
+246-020619-1-10_217.65	pos	You're going to sit with me, okay? no, no. I'm not chasing you, X. Alright?
+246-020619-1-10_226.77	pos	alright
+246-020619-1-10_270.87	pos	All ?? are ready. I don't see her paying attention.
+246-020619-1-10_325.91	neu	thank you
+246-020619-1-10_348.40	neg	Everybody think about your boat, so we can do this super quickly. let's make the boat
+246-020619-1-10_371.29	neu	House in the amazon, house in an island, or house in the city
+246-020619-1-10_378.74	neg	who's next tuesday, X
+246-020619-1-10_386.74	neg	This one is for playing or for voting
+246-020619-1-10_391.93	neg	Are you ready to vote or are you ready to give those to miss X
+246-020619-1-10_424.46	pos	Alright first vote for the white house. Who was next to ?
+246-020619-1-10_438.92	pos	White house. Good job!
+246-020619-1-10_491.47	pos	House number two
+246-020619-1-10_510.41	pos	Alright last house, here we go!

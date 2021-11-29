@@ -1,0 +1,10 @@
+# Method 1: linear 
+For each wav file, both systems predict a number between 0 and 1, indicating the probability of being “positive”. Then, a simple linear function combines the two probabilities to produce a final probability. 
+
+P(final probability) = weight1*text model + weight2*acoustic model    (weight1 + weight2 = 1.0)
+If P >= 0.5 : positive. Otherwise, negative. 
+
+
+# Method 2: stacking
+Layer 1: MLP trained on text data; MLP trained on acoustic data 
+Layer 2: SVC trained on the probabilities predicted by models in layer 1

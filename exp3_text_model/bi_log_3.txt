@@ -1,0 +1,400 @@
+w1=0.0
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.01
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.02
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.03
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.04
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.05
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.06
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.07
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.08
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.09
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.708% mean f1 :0.763%
+w1=0.1
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.711% mean f1 :0.766%
+w1=0.11
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.711% mean f1 :0.766%
+w1=0.12
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.711% mean f1 :0.766%
+w1=0.13
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.711% mean f1 :0.766%
+w1=0.14
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.711% mean f1 :0.767%
+w1=0.15
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.711% mean f1 :0.767%
+w1=0.16
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.711% mean f1 :0.767%
+w1=0.17
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.714% mean f1 :0.769%
+w1=0.18
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.717% mean f1 :0.771%
+w1=0.19
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.717% mean f1 :0.771%
+w1=0.2
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.717% mean f1 :0.771%
+w1=0.21
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.720% mean f1 :0.773%
+w1=0.22
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.720% mean f1 :0.773%
+w1=0.23
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.720% mean f1 :0.773%
+w1=0.24
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.720% mean f1 :0.773%
+w1=0.25
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.723% mean f1 :0.775%
+w1=0.26
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.723% mean f1 :0.775%
+w1=0.27
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.726% mean f1 :0.776%
+w1=0.28
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.726% mean f1 :0.776%
+w1=0.29
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.726% mean f1 :0.776%
+w1=0.3
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.726% mean f1 :0.776%
+w1=0.31
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.726% mean f1 :0.776%
+w1=0.32
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.726% mean f1 :0.776%
+w1=0.33
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.726% mean f1 :0.776%
+w1=0.34
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.723% mean f1 :0.775%
+w1=0.35
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.723% mean f1 :0.775%
+w1=0.36
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.726% mean f1 :0.777%
+w1=0.37
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.729% mean f1 :0.779%
+w1=0.38
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.729% mean f1 :0.779%
+w1=0.39
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.729% mean f1 :0.779%
+w1=0.4
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.729% mean f1 :0.779%
+w1=0.41
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.732% mean f1 :0.781%
+w1=0.42
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.732% mean f1 :0.781%
+w1=0.43
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.732% mean f1 :0.781%
+w1=0.44
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.732% mean f1 :0.781%
+w1=0.45
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.732% mean f1 :0.781%
+w1=0.46
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.732% mean f1 :0.781%
+w1=0.47
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.729% mean f1 :0.782%
+w1=0.48
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.726% mean f1 :0.780%
+w1=0.49
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.729% mean f1 :0.780%
+w1=0.5
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.764% mean f1 :0.804%
+w1=0.51
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.755% mean f1 :0.795%
+w1=0.52
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.752% mean f1 :0.790%
+w1=0.53
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.749% mean f1 :0.788%
+w1=0.54
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.752% mean f1 :0.791%
+w1=0.55
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.749% mean f1 :0.788%
+w1=0.56
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.743% mean f1 :0.790%
+w1=0.57
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.743% mean f1 :0.789%
+w1=0.58
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.743% mean f1 :0.789%
+w1=0.59
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.6
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.743% mean f1 :0.789%
+w1=0.61
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.62
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.63
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.64
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.65
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.66
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.67
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.68
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.69
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.7
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.746% mean f1 :0.791%
+w1=0.71
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.743% mean f1 :0.789%
+w1=0.72
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.73
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.74
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.743% mean f1 :0.789%
+w1=0.75
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.76
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.77
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.78
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.79
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.8
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.81
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.82
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.83
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.84
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.85
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.86
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.87
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.88
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.89
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.9
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.91
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.92
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.93
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.94
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.95
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.740% mean f1 :0.786%
+w1=0.96
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.738% mean f1 :0.783%
+w1=0.97
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.738% mean f1 :0.783%
+w1=0.98
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.738% mean f1 :0.783%
+w1=0.99
+Text   model mean acc:0.708% mean f1 :0.763%
+Acou   model mean acc:0.738% mean f1 :0.783%
+linear model mean acc:0.738% mean f1 :0.783%

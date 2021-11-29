@@ -1,0 +1,2 @@
+Speaker identities are labeled roughly by Mingyue. There are 12 speakers, 10 female and 2 male. 
+I did "leave one speaker out" experiments. Each time, use 11 speakers for training data and then use the left one for testing. 
